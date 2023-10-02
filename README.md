@@ -1,1 +1,1 @@
-# Excel-Dashboard-project
+The dashboard was created by [Mohammed Musaddique] to track the sales performance of the company's products. It includes a variety of charts and graphs that provide insights into sales data, such as sales by region, sales by product, and sales by customer. The dashboard is interactive, allowing users to filter the data by region, product, and customer. This allows users to quickly and easily identify trends and patterns in sales data.
